@@ -1,2 +1,2 @@
-# thejonathanvancetrance-p0C
+# thejonathanvancetrance-p0
 CSCI8360 project 0
